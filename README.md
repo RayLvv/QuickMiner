@@ -1,0 +1,2 @@
+# QuickMiner
+OK QuickMiner homepage
